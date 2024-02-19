@@ -1,0 +1,1582 @@
+id=1
+Stack:((a Ref(int));((counter int);while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}))
+
+Map[]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:((counter int);while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))})
+(a Ref(int))
+
+Map[]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:((counter int);while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))})
+(a Ref(int))
+
+Map[]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:((counter int);while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))})
+
+Map[a->(0 int)  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:((counter int);while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))})
+
+Map[a->(0 int)  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(counter int)
+
+Map[a->(0 int)  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(counter int)
+
+Map[a->(0 int)  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=1
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=2
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=2
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=2
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=2
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(0 int)  counter->0  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=3
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(0 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=3
+Stack:
+Map[a->(0 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=3
+Stack:new(a,(id=counter));
+
+
+Map[a->(0 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=3
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(0 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=3
+Stack:new(a,(id=counter));
+
+
+Map[a->(0 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[]
+
+id=3
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=3
+Stack:
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=3
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=3
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=3
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=4
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=4
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=4
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=4
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(1 int)  counter->1  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=5
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(1 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=5
+Stack:
+Map[a->(1 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=5
+Stack:new(a,(id=counter));
+
+
+Map[a->(1 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=5
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(1 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=5
+Stack:new(a,(id=counter));
+
+
+Map[a->(1 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  ]
+
+id=5
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  2->2  ]
+
+id=5
+Stack:
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[1->1  2->2  ]
+
+id=5
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=5
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=5
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=6
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=6
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=6
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=6
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(2 int)  counter->2  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=7
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(2 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=7
+Stack:
+Map[a->(2 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=7
+Stack:new(a,(id=counter));
+
+
+Map[a->(2 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=7
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(2 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=7
+Stack:new(a,(id=counter));
+
+
+Map[a->(2 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  ]
+
+id=7
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  3->3  ]
+
+id=7
+Stack:
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[2->2  3->3  ]
+
+id=7
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=7
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=7
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=8
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=8
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=8
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=8
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(3 int)  counter->3  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=9
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(3 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=9
+Stack:
+Map[a->(3 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=9
+Stack:new(a,(id=counter));
+
+
+Map[a->(3 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=9
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(3 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=9
+Stack:new(a,(id=counter));
+
+
+Map[a->(3 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  ]
+
+id=9
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  4->4  ]
+
+id=9
+Stack:
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[3->3  4->4  ]
+
+id=9
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=9
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=9
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=10
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=10
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=10
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=10
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(4 int)  counter->4  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=11
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(4 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=11
+Stack:
+Map[a->(4 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=11
+Stack:new(a,(id=counter));
+
+
+Map[a->(4 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=11
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(4 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=11
+Stack:new(a,(id=counter));
+
+
+Map[a->(4 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  ]
+
+id=11
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  5->5  ]
+
+id=11
+Stack:
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[4->4  5->5  ]
+
+id=11
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=11
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=11
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=12
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=12
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=12
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=12
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(5 int)  counter->5  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=13
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(5 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=13
+Stack:
+Map[a->(5 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=13
+Stack:new(a,(id=counter));
+
+
+Map[a->(5 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=13
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(5 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=13
+Stack:new(a,(id=counter));
+
+
+Map[a->(5 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  ]
+
+id=13
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  6->6  ]
+
+id=13
+Stack:
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[5->5  6->6  ]
+
+id=13
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=13
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=13
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=14
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=14
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=14
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=14
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(6 int)  counter->6  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=15
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(6 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=15
+Stack:
+Map[a->(6 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=15
+Stack:new(a,(id=counter));
+
+
+Map[a->(6 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=15
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(6 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=15
+Stack:new(a,(id=counter));
+
+
+Map[a->(6 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  ]
+
+id=15
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  7->7  ]
+
+id=15
+Stack:
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[6->6  7->7  ]
+
+id=15
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=15
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=15
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=16
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=16
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=16
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=16
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(7 int)  counter->7  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=17
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(7 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=17
+Stack:
+Map[a->(7 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=17
+Stack:new(a,(id=counter));
+
+
+Map[a->(7 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=17
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(7 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=17
+Stack:new(a,(id=counter));
+
+
+Map[a->(7 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  ]
+
+id=17
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  8->8  ]
+
+id=17
+Stack:
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[7->7  8->8  ]
+
+id=17
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=17
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=17
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=18
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=18
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=18
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=18
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(8 int)  counter->8  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=19
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(8 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=19
+Stack:
+Map[a->(8 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=19
+Stack:new(a,(id=counter));
+
+
+Map[a->(8 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=19
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(8 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=19
+Stack:new(a,(id=counter));
+
+
+Map[a->(8 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  ]
+
+id=19
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  9->9  ]
+
+id=19
+Stack:
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[8->8  9->9  ]
+
+id=19
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=19
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=19
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+fork(fork(new(a,(id=counter));
+))
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=20
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=20
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=20
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+counter=((id=counter)+(e=1))
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=20
+Stack:fork(new(a,(id=counter));
+)
+
+Map[a->(9 int)  counter->9  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=21
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(9 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=21
+Stack:
+Map[a->(9 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=21
+Stack:new(a,(id=counter));
+
+
+Map[a->(9 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=21
+Stack:while(((id=counter)<=(e=10))){(fork(fork(new(a,(id=counter));
+));counter=((id=counter)+(e=1)))}
+
+Map[a->(9 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=21
+Stack:new(a,(id=counter));
+
+
+Map[a->(9 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  ]
+
+id=21
+Stack:
+Map[a->(10 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  10->10  ]
+
+id=21
+Stack:
+Map[a->(10 int)  counter->10  ]
+List:
+
+FileTable:[]
+Heap:[9->9  10->10  ]
+

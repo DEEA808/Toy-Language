@@ -1,0 +1,222 @@
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))))))))]}
+MyMap{map={}}
+MyList{list=[]}
+MyMap{map=[]}
+
+MyStack{stack=[(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))))))), (varf String)]}
+MyMap{map={}}
+MyList{list=[]}
+MyMap{map=[]}
+
+MyStack{stack=[(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))]}
+MyMap{map={varf=}}
+MyList{list=[]}
+MyMap{map=[]}
+
+MyStack{stack=[(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))), varf=ValExp{e=./input/test.in}]}
+MyMap{map={varf=}}
+MyList{list=[]}
+MyMap{map=[]}
+
+MyStack{stack=[(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))))))]}
+MyMap{map={varf=./input/test.in}}
+MyList{list=[]}
+MyMap{map=[]}
+
+MyStack{stack=[((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))))), OpenRFile{exp=VarExp{id='varf'}}]}
+MyMap{map={varf=./input/test.in}}
+MyList{list=[]}
+MyMap{map=[]}
+
+MyStack{stack=[((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))]}
+MyMap{map={varf=./input/test.in}}
+MyList{list=[]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))), (varc int)]}
+MyMap{map={varf=./input/test.in}}
+MyList{list=[]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))))]}
+MyMap{map={varf=./input/test.in, varc=0}}
+MyList{list=[]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))), readFile{exp=VarExp{id='varf'}, id='varc'}]}
+MyMap{map={varf=./input/test.in, varc=0}}
+MyList{list=[]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))]}
+MyMap{map={varf=./input/test.in, varc=15}}
+MyList{list=[]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})), print(VarExp{id='varc'})]}
+MyMap{map={varf=./input/test.in, varc=15}}
+MyList{list=[]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}))]}
+MyMap{map={varf=./input/test.in, varc=15}}
+MyList{list=[15]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}}), readFile{exp=VarExp{id='varf'}, id='varc'}]}
+MyMap{map={varf=./input/test.in, varc=15}}
+MyList{list=[15]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})]}
+MyMap{map={varf=./input/test.in, varc=50}}
+MyList{list=[15]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[CloseRFile{exp=VarExp{id='varf'}}, print(VarExp{id='varc'})]}
+MyMap{map={varf=./input/test.in, varc=50}}
+MyList{list=[15]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[CloseRFile{exp=VarExp{id='varf'}}]}
+MyMap{map={varf=./input/test.in, varc=50}}
+MyList{list=[15, 50]}
+MyMap{map=[./input/test.in]}
+
+MyStack{stack=[]}
+MyMap{map={varf=./input/test.in, varc=50}}
+MyList{list=[15, 50]}
+MyMap{map=[]}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), ((v Ref(int));(statment.HeapAllocationStmt@7ba4f24f;((a Ref(Ref(int)));(statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))))))]}
+MyMap{map={}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@7ba4f24f;((a Ref(Ref(int)));(statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))))), (v Ref(int))]}
+MyMap{map={}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@7ba4f24f;((a Ref(Ref(int)));(statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})))))]}
+MyMap{map={v=RefValue{adress=0, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), ((a Ref(Ref(int)));(statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})))), statment.HeapAllocationStmt@7ba4f24f]}
+MyMap{map={v=RefValue{adress=0, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), ((a Ref(Ref(int)));(statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))))]}
+MyMap{map={v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={1=20}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))), (a Ref(Ref(int)))]}
+MyMap{map={v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@3b9a45b3;(statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})))]}
+MyMap{map={a=RefValue{adress=0, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})), statment.HeapAllocationStmt@3b9a45b3]}
+MyMap{map={a=RefValue{adress=0, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@7699a589;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))]}
+MyMap{map={a=RefValue{adress=2, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={1=RefValue{adress=2, locationType=int}}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}), statment.HeapAllocationStmt@7699a589]}
+MyMap{map={a=RefValue{adress=2, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})]}
+MyMap{map={a=RefValue{adress=2, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={1=30}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), ((v Ref(int));(statment.HeapAllocationStmt@3b9a45b3;((a Ref(Ref(int)));(statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))))))]}
+MyMap{map={}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@3b9a45b3;((a Ref(Ref(int)));(statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))))), (v Ref(int))]}
+MyMap{map={}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@3b9a45b3;((a Ref(Ref(int)));(statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})))))]}
+MyMap{map={v=RefValue{adress=0, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), ((a Ref(Ref(int)));(statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})))), statment.HeapAllocationStmt@3b9a45b3]}
+MyMap{map={v=RefValue{adress=0, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), ((a Ref(Ref(int)));(statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))))]}
+MyMap{map={v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={1=20}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))), (a Ref(Ref(int)))]}
+MyMap{map={v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@7699a589;(statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})))]}
+MyMap{map={a=RefValue{adress=0, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})), statment.HeapAllocationStmt@7699a589]}
+MyMap{map={a=RefValue{adress=0, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), (statment.HeapAllocationStmt@58372a00;print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}))]}
+MyMap{map={a=RefValue{adress=2, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={1=RefValue{adress=2, locationType=int}}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}}), statment.HeapAllocationStmt@58372a00]}
+MyMap{map={a=RefValue{adress=2, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={}}
+
+MyStack{stack=[((varf String);(varf=ValExp{e=./input/test.in};(OpenRFile{exp=VarExp{id='varf'}};((varc int);(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});(readFile{exp=VarExp{id='varf'}, id='varc'};(print(VarExp{id='varc'});CloseRFile{exp=VarExp{id='varf'}})))))))), print(HeapReadExp{exp=HeapReadExp{exp=VarExp{id='a'}}})]}
+MyMap{map={a=RefValue{adress=2, locationType=Ref(int)}, v=RefValue{adress=2, locationType=int}}}
+MyList{list=[]}
+MyMap{map=[]}
+MyMap{map={1=30}}
+
